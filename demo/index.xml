@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>button-more demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+        <ui-entry>
+            <i>
+                <title>查看全部</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+         
+        </ui-entry>
+    </data>
+</root>
